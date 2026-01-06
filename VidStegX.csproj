@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<Nullable>enable</Nullable>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+		<!-- YE LINE ADD KI HAI – ENTRY POINT CLEARLY PROGRAM.CS -->
+		<StartupObject>VidStegX.Program</StartupObject>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<AvaloniaResource Include="Assets\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="ffmpeg\*\.*" CopyToOutputDirectory="PreserveNewest" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Avalonia" Version="11.3.9" />
+		<PackageReference Include="Avalonia.Desktop" Version="11.3.9" />
+		<PackageReference Include="Avalonia.ReactiveUI" Version="11.3.8" />
+		<PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.9" />
+		<PackageReference Include="Avalonia.Fonts.Inter" Version="11.3.9" />
+		<!--Condition below is needed to remove Avalonia.Diagnostics package from build output in Release configuration.-->
+		<PackageReference Include="Avalonia.Diagnostics" Version="11.3.9">
+			<IncludeAssets Condition="'$(Configuration)' != 'Debug'">None</IncludeAssets>
+			<PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
+		<PackageReference Include="FFMediaToolkit" Version="4.8.1" />
+		<PackageReference Include="LiveChartsCore.SkiaSharpView.Avalonia" Version="2.0.0-rc6.1" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
+		<PackageReference Include="ReactiveUI" Version="22.3.1" />
+		<PackageReference Include="ReactiveUI.Avalonia" Version="11.3.8" />
+		<PackageReference Include="System.Drawing.Common" Version="10.0.1" />
+		<PackageReference Include="xunit" Version="2.9.3" />
+		<PackageReference Include="xunit.runner.visualstudio" Version="3.1.5">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+	</ItemGroup>
+
+	<Target Name="DownloadFFmpegBinaries" BeforeTargets="PreBuildEvent">
+		<Exec Command="powershell -ExecutionPolicy Bypass -File &quot;$(ProjectDir)download-ffmpeg.ps1&quot;" />
+	</Target>
+
+</Project>

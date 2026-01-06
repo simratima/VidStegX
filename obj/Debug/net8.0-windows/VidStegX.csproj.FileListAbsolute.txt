@@ -1,0 +1,461 @@
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\.downloaded
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\avcodec-61.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\avdevice-61.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\avfilter-10.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\avformat-61.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\avutil-59.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\ffmpeg.exe
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\ffplay.exe
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\ffprobe.exe
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\postproc-58.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\swresample-5.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ffmpeg\swscale-8.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\VidStegX.exe
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\VidStegX.deps.json
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\VidStegX.runtimeconfig.json
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\VidStegX.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\VidStegX.pdb
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Base.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Controls.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.DesignerSupport.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Dialogs.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Markup.Xaml.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Markup.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Metal.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.MicroCom.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.OpenGL.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Vulkan.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Controls.ColorPicker.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Desktop.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Diagnostics.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Fonts.Inter.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.FreeDesktop.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Native.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.ReactiveUI.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Remote.Protocol.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Skia.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Themes.Fluent.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Themes.Simple.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Win32.Automation.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.Win32.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Avalonia.X11.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\DynamicData.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\FFMediaToolkit.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\FFmpeg.AutoGen.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\LiveChartsCore.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.Avalonia.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\MicroCom.Runtime.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\ReactiveUI.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Splat.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\System.Private.Windows.GdiPlus.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\Tmds.DBus.Protocol.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.csproj.AssemblyReference.cache
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\Avalonia\Resources.Inputs.cache
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\Avalonia\resources
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.AssemblyInfoInputs.cache
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.AssemblyInfo.cs
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.csproj.CoreCompileInputs.cache
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.csproj.Up2Date
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\refint\VidStegX.dll
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.pdb
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\VidStegX.genruntimeconfig.cache
+C:\Users\BN Com\OneDrive\Documents\videostegoX\obj\Debug\net8.0-windows\ref\VidStegX.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\testhost.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\testhost.exe
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\.downloaded
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\avcodec-61.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\avdevice-61.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\avfilter-10.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\avformat-61.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\avutil-59.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\ffmpeg.exe
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\ffplay.exe
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\ffprobe.exe
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\postproc-58.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\swresample-5.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ffmpeg\swscale-8.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\VidStegX.exe
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\VidStegX.deps.json
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\VidStegX.runtimeconfig.json
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\VidStegX.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\VidStegX.pdb
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Base.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Controls.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.DesignerSupport.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Dialogs.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Markup.Xaml.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Markup.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Metal.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.MicroCom.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.OpenGL.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Vulkan.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Controls.ColorPicker.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Desktop.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Diagnostics.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Fonts.Inter.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.FreeDesktop.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Native.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Remote.Protocol.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Skia.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Themes.Fluent.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Themes.Simple.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Win32.Automation.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.Win32.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Avalonia.X11.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\DynamicData.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\FFMediaToolkit.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\FFmpeg.AutoGen.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\LiveChartsCore.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.Avalonia.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\MicroCom.Runtime.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ReactiveUI.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ReactiveUI.Avalonia.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Splat.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Splat.Builder.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Splat.Core.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Splat.Logging.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\System.Private.Windows.GdiPlus.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\Tmds.DBus.Protocol.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\Avalonia\Resources.Inputs.cache
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\Avalonia\resources
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.AssemblyInfo.cs
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.csproj.Up2Date
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.dll
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\refint\VidStegX.dll
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.pdb
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\VidStegX.genruntimeconfig.cache
+C:\Users\hp\Documents\VIDSTEGX\obj\Debug\net8.0-windows\ref\VidStegX.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\testhost.exe
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\testhost.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\VidStegX.exe
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\VidStegX.deps.json
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\VidStegX.runtimeconfig.json
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\VidStegX.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\VidStegX.pdb
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Base.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Controls.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.DesignerSupport.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Dialogs.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Markup.Xaml.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Markup.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Metal.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.MicroCom.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.OpenGL.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Vulkan.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Controls.ColorPicker.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Desktop.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Diagnostics.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Fonts.Inter.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.FreeDesktop.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Native.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Remote.Protocol.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Skia.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Themes.Fluent.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Themes.Simple.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Win32.Automation.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.Win32.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.X11.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\DynamicData.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\FFMediaToolkit.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\FFmpeg.AutoGen.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\LiveChartsCore.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.Avalonia.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\MicroCom.Runtime.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ReactiveUI.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ReactiveUI.Avalonia.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Splat.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Splat.Builder.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Splat.Core.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Splat.Logging.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\System.Private.Windows.GdiPlus.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Tmds.DBus.Protocol.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.csproj.AssemblyReference.cache
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\Avalonia\Resources.Inputs.cache
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\Avalonia\resources
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.AssemblyInfoInputs.cache
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.AssemblyInfo.cs
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.csproj.CoreCompileInputs.cache
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.csproj.Up2Date
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\refint\VidStegX.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.pdb
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\VidStegX.genruntimeconfig.cache
+C:\Users\Nexgen\Downloads\VidStegX_1\obj\Debug\net8.0-windows\ref\VidStegX.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\Avalonia.ReactiveUI.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\xunit.assert.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\xunit.core.dll
+C:\Users\Nexgen\Downloads\VidStegX_1\bin\Debug\net8.0-windows\xunit.execution.dotnet.dll

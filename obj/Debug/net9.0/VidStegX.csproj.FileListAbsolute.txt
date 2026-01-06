@@ -1,0 +1,7 @@
+C:\Users\Umer Farooq\Documents\Programming\Mine\Huma\VidStegX_Avalonia\VidStegX\obj\Debug\net9.0\VidStegX.csproj.AssemblyReference.cache
+C:\Users\Umer Farooq\Documents\Programming\Mine\Huma\VidStegX_Avalonia\VidStegX\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+C:\Users\Umer Farooq\Documents\Programming\Mine\Huma\VidStegX_Avalonia\VidStegX\obj\Debug\net9.0\Avalonia\resources
+C:\Users\Umer Farooq\Documents\Programming\Mine\Huma\VidStegX_Avalonia\VidStegX\obj\Debug\net9.0\VidStegX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umer Farooq\Documents\Programming\Mine\Huma\VidStegX_Avalonia\VidStegX\obj\Debug\net9.0\VidStegX.AssemblyInfoInputs.cache
+C:\Users\Umer Farooq\Documents\Programming\Mine\Huma\VidStegX_Avalonia\VidStegX\obj\Debug\net9.0\VidStegX.AssemblyInfo.cs
+C:\Users\Umer Farooq\Documents\Programming\Mine\Huma\VidStegX_Avalonia\VidStegX\obj\Debug\net9.0\VidStegX.csproj.CoreCompileInputs.cache

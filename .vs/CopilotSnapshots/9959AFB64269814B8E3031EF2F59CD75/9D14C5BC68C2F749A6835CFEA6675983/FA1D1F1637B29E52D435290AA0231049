@@ -1,0 +1,51 @@
+﻿using Avalonia;
+using Avalonia.ReactiveUI;
+using System;
+
+namespace VidStegX;
+
+sealed class Program
+{
+    // Initialization code. Don't use any Avalonia, third-party APIs or any
+    // SynchronizationContext-reliant code before AppMain is called: things aren't initialized
+    // yet and stuff might break.
+    [STAThread]
+    public static void Main(string[] args)
+    {
+        // If user asked to run tests, run them in console mode and exit
+        if (args != null && args.Length > 0 && Array.Exists(args, a => a == "--run-tests"))
+        {
+            RunAllTests();
+            return;
+        }
+
+        BuildAvaloniaApp()
+            .StartWithClassicDesktopLifetime(args);
+    }
+
+    private static void RunAllTests()
+    {
+        Console.WriteLine("Running test suites...\n");
+        try
+        {
+            // Call diagnostic and verification tests
+            Tests.SteganographyTests.RunAllTests();
+            Tests.DiagnosticTest.RunDiagnostics();
+            Tests.AlgorithmVerificationTest.RunTest();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Test run failed: {ex.Message}\n{ex.StackTrace}");
+        }
+
+        Console.WriteLine("\nAll tests finished.");
+    }
+
+    // Avalonia configuration, don't remove; also used by visual designer.
+    public static AppBuilder BuildAvaloniaApp()
+    => AppBuilder.Configure<App>()
+        .UsePlatformDetect()
+        .WithInterFont()
+        .LogToTrace()
+        .UseReactiveUI();  // <-- YEH LINE ADD KARO!!!
+}
